@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Página-1" id="GUrog0tWcJF5uc0BCN4l">
-    <mxGraphModel dx="880" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="765" dy="370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,6 +28,15 @@
         <mxCell id="awf-RZ7QYnmuVnEtE9_K-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="awf-RZ7QYnmuVnEtE9_K-8" target="awf-RZ7QYnmuVnEtE9_K-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="awf-RZ7QYnmuVnEtE9_K-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="awf-RZ7QYnmuVnEtE9_K-8" target="awf-RZ7QYnmuVnEtE9_K-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="280" />
+              <mxPoint x="570" y="241" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="awf-RZ7QYnmuVnEtE9_K-8" value="Se presionó el&amp;nbsp;&lt;div&gt;interruptor&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="240" width="150" height="80" as="geometry" />
         </mxCell>
@@ -40,10 +49,22 @@
         <mxCell id="awf-RZ7QYnmuVnEtE9_K-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="awf-RZ7QYnmuVnEtE9_K-13" target="awf-RZ7QYnmuVnEtE9_K-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="awf-RZ7QYnmuVnEtE9_K-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="awf-RZ7QYnmuVnEtE9_K-13" target="awf-RZ7QYnmuVnEtE9_K-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="440" />
+              <mxPoint x="550" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="awf-RZ7QYnmuVnEtE9_K-13" value="Se colocó el biberón" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="400" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="awf-RZ7QYnmuVnEtE9_K-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="awf-RZ7QYnmuVnEtE9_K-16" target="awf-RZ7QYnmuVnEtE9_K-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="awf-RZ7QYnmuVnEtE9_K-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="awf-RZ7QYnmuVnEtE9_K-16" target="awf-RZ7QYnmuVnEtE9_K-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="awf-RZ7QYnmuVnEtE9_K-16" value="El biberón está en la posición correcta" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -61,7 +82,7 @@
         <mxCell id="awf-RZ7QYnmuVnEtE9_K-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="awf-RZ7QYnmuVnEtE9_K-20" target="awf-RZ7QYnmuVnEtE9_K-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="awf-RZ7QYnmuVnEtE9_K-20" value="Primera medición" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="awf-RZ7QYnmuVnEtE9_K-20" value="Segunda medición" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="630" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="awf-RZ7QYnmuVnEtE9_K-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="awf-RZ7QYnmuVnEtE9_K-22" target="awf-RZ7QYnmuVnEtE9_K-26">
@@ -138,6 +159,36 @@
         </mxCell>
         <mxCell id="awf-RZ7QYnmuVnEtE9_K-49" value="Fin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="1693.5" width="80" height="36.5" as="geometry" />
+        </mxCell>
+        <mxCell id="awf-RZ7QYnmuVnEtE9_K-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="awf-RZ7QYnmuVnEtE9_K-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="587" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="awf-RZ7QYnmuVnEtE9_K-55" value="Indicar posicionamiento inadecuado" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="527" y="514" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="awf-RZ7QYnmuVnEtE9_K-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="595" y="631" as="sourcePoint" />
+            <mxPoint x="420" y="617" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="595" y="617" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="awf-RZ7QYnmuVnEtE9_K-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="awf-RZ7QYnmuVnEtE9_K-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="930" as="sourcePoint" />
+            <mxPoint x="511.5" y="901" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="941" />
+              <mxPoint x="640" y="901" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
